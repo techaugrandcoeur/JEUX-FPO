@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 15px;
   font-family: system-ui, Arial, sans-serif;
-  background: #1a65a2;
+  background: #431AA2;
   color: white;
 }
 
@@ -123,8 +123,8 @@ h2 {
     font-size: 22px;
   }
  h3 {
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 42px;
+    font-weight: 800;
     margin-top: 24px;
     margin-bottom: 14px;
   }
